@@ -1,2 +1,2 @@
 # Data_Analysis_With_Python
-![Certificate](https://github.com/nuWolf13/Data_Analysis_With_Python/files/4586686/Data.Analysis.with.Python.pdf)
+![Certificate](https://user-images.githubusercontent.com/45413663/81176903-7b678d00-8fc3-11ea-9064-6360ac9cd40e.png)
